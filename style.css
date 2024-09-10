@@ -1,3 +1,5 @@
+/* inital styling */
+
 html {
     box-sizing: border-box;
 }
@@ -7,3 +9,17 @@ html {
 *::after {
     box-sizing: inherit;
 }
+
+/* basic styles for page */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+}
+
+h1, p {
+    margin: 0;
+}
+
